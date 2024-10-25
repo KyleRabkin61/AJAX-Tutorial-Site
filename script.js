@@ -1,4 +1,4 @@
-var pageCounter = 1
+let pageCounter = 1
 
 var animalContainer = document.getElementById("animal-info");
 

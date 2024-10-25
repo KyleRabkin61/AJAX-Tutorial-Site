@@ -31,11 +31,11 @@ html, body {
     cursor: pointer;
     outline: none;
     box-shadow: 2px 2px 0 #034154;
-    margin-bottom: 10px;
-    margin-left: 18px;
+    margin: 18px auto;
     transition: opacity .4s ease-out, transform .4s ease-out, visibility .4s ease-out;
     position: relative;
     top: -10px;
+    width: 200px;
   }
   
   button:hover {
